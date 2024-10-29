@@ -1,5 +1,11 @@
 # Insta DL
 
+
+**Storage Permission**
+```bash
+termux-setup-storage
+```
+
 ## Install On Android (Termux)
 
 **install Nodejs**
